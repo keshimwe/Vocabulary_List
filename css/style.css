@@ -1,0 +1,32 @@
+h1 {
+    background-color: white;
+    text-align: center;
+    
+}
+
+
+
+p {
+    text-align: center;
+    background-color: blue;
+   
+}
+
+strong {
+    font-weight: bolder;
+    color: blue;
+    font-style: italic;
+}
+
+ul {
+    font-style: italic;
+        
+}
+    
+
+
+main {
+    background-color: rgb(236, 236, 38);
+    
+
+}
